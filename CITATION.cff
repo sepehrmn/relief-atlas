@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "relief-atlas: 10K+ 3D Mesh Assets for Disaster Relief and Civil Protection"
+type: dataset
+authors:
+  - family-names: Mahmoudian
+    given-names: Sepehr
+year: 2026
+license: MIT
+repository-code: "https://github.com/sepehrmn/relief-atlas"
+abstract: >
+  A large-scale collection of 10,079 3D mesh assets for disaster relief,
+  humanitarian aid, and civil protection. Covers equipment and vehicles
+  from Germany (DRK, THW, Feuerwehr, Bundespolizei, Bundeswehr), EU
+  Civil Protection, Ukraine recovery operations, and global natural
+  disaster response. Generated via GPT-Image to Trellis 2 / Tripo v3.1
+  / Hunyuan3D pipeline with model-optimized prompts.
+keywords:
+  - disaster-relief
+  - humanitarian-aid
+  - 3d-meshes
+  - robotics
+  - simulation
+  - civil-protection
+  - embodied-ai

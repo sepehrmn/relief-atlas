@@ -1,0 +1,8 @@
+{
+  "id": "gear_SEM_70_Radio",
+  "category": "bundeswehr_gear",
+  "prompt": "SEM 70 manpack military radio, vintage bundeswehr, military equipment, studio lighting, white background, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T05:06:00.587290"
+}

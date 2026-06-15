@@ -1,0 +1,8 @@
+{
+  "id": "vehicle_Leopard_2A7",
+  "category": "bundeswehr_vehicles",
+  "prompt": "German main battle tank Leopard 2A7, desert camo, photorealistic, isolated, white background, military vehicle, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T04:57:59.904583"
+}

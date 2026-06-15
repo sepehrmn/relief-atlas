@@ -1,0 +1,8 @@
+{
+  "id": "equipment_binoculars_vector",
+  "category": "military_gear",
+  "prompt": "High-end military laser rangefinder binoculars, rubberized armor, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture, 8k",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T03:46:22.451082"
+}

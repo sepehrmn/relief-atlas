@@ -1,0 +1,8 @@
+{
+  "id": "fruit_pear_green",
+  "category": "fruit",
+  "prompt": "Green anjou pear, smooth skin, classic shape, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture, 8k",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T03:45:03.907075"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "vehicle_Fennek_Recon",
+  "category": "bundeswehr_vehicles",
+  "prompt": "Fennek reconnaissance vehicle, light armored car, photorealistic, isolated, white background, military vehicle, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T04:58:39.919011"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "gear_Panzerfaust_3",
+  "category": "bundeswehr_gear",
+  "prompt": "Panzerfaust 3 anti-tank weapon, loaded, military equipment, studio lighting, white background, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T05:05:31.227245"
+}

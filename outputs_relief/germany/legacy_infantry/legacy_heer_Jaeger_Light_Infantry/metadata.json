@@ -1,0 +1,8 @@
+{
+  "id": "heer_Jaeger_Light_Infantry",
+  "category": "bundeswehr_infantry_heer",
+  "prompt": "Bundeswehr J\u00e4ger soldier, forest camo, patrolling, Boonie hat, photorealistic, full body character, isolated, white background, military uniform detail, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T05:03:53.290154"
+}

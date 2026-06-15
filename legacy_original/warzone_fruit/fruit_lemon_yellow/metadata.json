@@ -1,0 +1,8 @@
+{
+  "id": "fruit_lemon_yellow",
+  "category": "fruit",
+  "prompt": "Bright yellow lemon, textured rind, oval shape, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture, 8k",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T03:45:23.728974"
+}

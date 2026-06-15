@@ -1,0 +1,8 @@
+{
+  "id": "aircraft_Panavia_Tornado_IDS",
+  "category": "bundeswehr_aircraft",
+  "prompt": "Panavia Tornado IDS, German Air Force, recon configuration, aircraft in flight configuration or landed, isolated, white background, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T05:02:03.202488"
+}

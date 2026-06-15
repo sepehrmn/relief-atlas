@@ -1,0 +1,19 @@
+# === fal.ai keys ===
+
+# sepehr_fal_1
+# max_budget=500
+YOUR_FAL_API_KEY_1_HERE
+
+# sepehr_fal_2
+# max_budget=300
+YOUR_FAL_API_KEY_2_HERE
+
+# === runware keys ===
+
+# sepehr_runware_1
+# max_budget=500
+YOUR_RUNWARE_API_KEY_1_HERE
+
+# sepehr_runware_2
+# max_budget=300
+YOUR_RUNWARE_API_KEY_2_HERE

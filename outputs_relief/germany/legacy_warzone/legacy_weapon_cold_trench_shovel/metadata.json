@@ -1,0 +1,8 @@
+{
+  "id": "weapon_cold_trench_shovel",
+  "category": "weapon_cold",
+  "prompt": "German folding trench shovel, serrated edge, wooden handle, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture, 8k",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T03:50:01.975565"
+}

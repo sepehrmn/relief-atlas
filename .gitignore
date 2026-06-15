@@ -1,0 +1,19 @@
+# API keys (contains secrets)
+config/api_keys.txt
+
+# Runtime state
+state/
+
+# Runtime JSON
+**/spending.json
+**/failed.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
